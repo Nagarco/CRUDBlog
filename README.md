@@ -14,6 +14,7 @@ To get started with this application, you'll need to have Node.js and MongoDB in
 2. Navigate to the project directory: cd your-repo-name
 
 3. Install the required dependencies: 
+
 npm i express
 
 npm i mongoose
