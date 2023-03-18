@@ -15,7 +15,9 @@ To get started with this application, you'll need to have Node.js and MongoDB in
 
 3. Install the required dependencies: 
 npm i express
+
 npm i mongoose
+
 npm i ejs
 
 4. Start the application: node app
