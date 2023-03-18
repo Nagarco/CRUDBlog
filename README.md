@@ -22,3 +22,9 @@ The application will now be running on http://localhost:3000.
 
 ![Screenshot from 2023-03-18 14-48-04](https://user-images.githubusercontent.com/73566933/226107052-dcfa75cf-7aee-4104-bd5c-fc836763b3a4.png)
 
+
+
+
+![Screenshot from 2023-03-18 14-52-16](https://user-images.githubusercontent.com/73566933/226107193-0b40ff03-de94-44fe-b667-641d5aeffb67.png)
+
+
