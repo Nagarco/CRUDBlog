@@ -1,6 +1,6 @@
 # CRUDBlog
 
-This is a simple web application built with Node.js and Express that allows users to create, read, update, and delete blog posts. The application uses MongoDB as its database.
+This is a simple web application built with Node.js and Express that allows users to create, read, and delete blog posts. The application uses MongoDB as its database.
 This application was created with the help of the Net Ninja YouTube channel's Node Js Crash Course. Check it out from the link below. https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
 
 ## Getting Started
